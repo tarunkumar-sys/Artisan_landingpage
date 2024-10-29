@@ -82,7 +82,7 @@ html,body{
     grid-column:1/3;
 }
 #right{
-    background-image: url(images/anime.jpg);
+    background-image: url(images/anime.webp);
     background-size: cover;
     background-position: center;
     box-shadow: 0 25px 35px rgba(0,0,0,0.4);
@@ -109,7 +109,7 @@ html,body{
     border-radius: 50%;
     height: 40px;
     width: 40px;
-    background: url(images/img1.jpg);
+    background: url(images/img1.webp);
     background-size: cover;
     background-position: center;
    
@@ -119,7 +119,7 @@ html,body{
     border-radius: 50%;
     height: 40px;
     width: 40px;
-    background: url(images/img2.jpeg);
+    background: url(images/img2.webp);
     background-size: cover;
     background-position: center;
   
@@ -129,7 +129,7 @@ html,body{
     border-radius: 50%;
     height: 40px;
     width: 40px;
-    background: url(images/img3.jpg);
+    background: url(images/img3.webp);
     background-size: cover;
     background-position: center;
 }
